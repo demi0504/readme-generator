@@ -15,11 +15,6 @@ const questions = [
         message: "Write a brief description of your project."
     },
     {
-        type: "list",
-        name: "contents",
-        message: "Enter in your table of contents."
-    },
-    {
         type: "input",
         name: "installation",
         message: "What is needed to install your project?"
