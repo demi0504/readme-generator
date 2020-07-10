@@ -29,9 +29,9 @@ const questions = [
         name: "license",
         message: "Choose a license option below:",
         choices: [
-            "Apache License 2.0",
-            "GNU General Public License v3.0",
-            "MIT License"
+            "Apache",
+            "GPLv3",
+            "MIT"
         ]
     },
     {
@@ -53,13 +53,7 @@ const questions = [
         type: "input",
         name: "email",
         message: "What is your email address?"
-    },
-    {
-        type: "input",
-        name: "badges",
-        message: "Please include any links here to badges you would like to include in your README:"
-    }
-    
+    }   
 ];
 
 // function to write README file
