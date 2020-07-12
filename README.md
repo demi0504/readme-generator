@@ -28,7 +28,7 @@
   ## Questions
   If you have any questions about this project, please use my email or find me on GitHub!
   * ripley.demi@gmail.com
-  * [github.com/demi0504]
+  * [GitHub](http://github.com/demi0504)
   
   ## README Generator Demo Video
   [![YouTube Video Demo](https://img.youtube.com/vi/XEBR2qdqNlk/0.jpg)](https://www.youtube.com/watch?v=XEBR2qdqNlk)
