@@ -30,8 +30,8 @@ function generateMarkdown(data) {
   ## Questions
   If you have any questions about this project, please use my email or find me on GitHub!
   * [${data.email}]
-  * [github.com/${data.github}]
+  * [GitHub](http://github.com/${data.github})
 `;
 }
-
+// export function to use in index.js
 module.exports = generateMarkdown;
